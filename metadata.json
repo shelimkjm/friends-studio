@@ -1,0 +1,6 @@
+{
+  "name": "Friends Hisab - ফ্রেন্ডস হিসাব",
+  "description": "Complete offline-first accounting application for Bangladeshi small businesses and shops. Features customer/supplier ledgers, MFS (bKash, Nagad, Rocket) accounting, sales & inventory, and complete Android Kotlin/Compose source code with APK build setup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
